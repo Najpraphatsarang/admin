@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import Home from "../src/pages/้home.jsx"; // หรือ ./components/Home
+import Home from "../src/pages/home.jsx"; // หรือ ./components/Home
 import Login from "../src/pages/login.jsx";
 import ProtectedRoute from "./components/ProtectedRoute"; // ปรับ path ตามที่คุณเก็บ
 import ForgotPassword from "./pages/forgotPasswordForm.jsx";
